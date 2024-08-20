@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS cars(
+    brand VARCHAR(50) NOT NULL,
+    model VARCHAR(12) NOT NULL
+);  
